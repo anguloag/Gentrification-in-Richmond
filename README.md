@@ -1,4 +1,4 @@
-# Team-Sociotracker - Gentrification of Richmond
+# Gentrification of Richmond - Team Sociotracker
 The correlation between the city's gentrified neighborhoods, crime rates, and cost of housing.
 
 Team Members: Angela Angulo, Bonnie Bailey, Joseph March, and Marisa Kiger
